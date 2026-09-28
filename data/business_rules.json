@@ -1,0 +1,170 @@
+[
+  {
+    "rule_key": "damage_claim_window_days",
+    "value_num": 7,
+    "value_text": null,
+    "unit": "days",
+    "description_en": "A damage claim must be opened within this many days of delivery.",
+    "description_ar": "يجب فتح مطالبة التلف خلال هذا العدد من الأيام من تاريخ التسليم."
+  },
+  {
+    "rule_key": "default_return_window_days",
+    "value_num": 14,
+    "value_text": null,
+    "unit": "days",
+    "description_en": "Default return window when the store has not set its own.",
+    "description_ar": "مدة الإرجاع الافتراضية إذا لم يحدد المتجر مدة خاصة به."
+  },
+  {
+    "rule_key": "hold_max_days",
+    "value_num": 30,
+    "value_text": null,
+    "unit": "days",
+    "description_en": "Maximum number of days a customer can ask Barq to hold a parcel.",
+    "description_ar": "أقصى عدد من الأيام يمكن للعميل طلب الاحتفاظ بالشحنة خلالها."
+  },
+  {
+    "rule_key": "hold_storage_fee_after_days",
+    "value_num": 30,
+    "value_text": null,
+    "unit": "days",
+    "description_en": "Holding a parcel is free up to this many days.",
+    "description_ar": "الاحتفاظ بالشحنة مجاني حتى هذا العدد من الأيام."
+  },
+  {
+    "rule_key": "locker_hold_hours",
+    "value_num": 48,
+    "value_text": null,
+    "unit": "hours",
+    "description_en": "How long a parcel waits in a Barq locker before it is collected back.",
+    "description_ar": "المدة التي تبقى فيها الشحنة في خزانة برق قبل سحبها."
+  },
+  {
+    "rule_key": "delivery_code_value_threshold_sar",
+    "value_num": 2000,
+    "value_text": null,
+    "unit": "SAR",
+    "description_en": "Parcels declared at or above this value need a one-time delivery code.",
+    "description_ar": "الشحنات التي تبلغ قيمتها المعلنة هذا المبلغ أو أكثر تحتاج رمز تسليم لمرة واحدة."
+  },
+  {
+    "rule_key": "customs_duty_free_threshold_sar",
+    "value_num": 1000,
+    "value_text": null,
+    "unit": "SAR",
+    "description_en": "Imported goods below this value pay no customs duty (VAT still applies).",
+    "description_ar": "البضائع المستوردة التي تقل قيمتها عن هذا المبلغ معفاة من الرسوم الجمركية (مع استحقاق ضريبة القيمة المضافة)."
+  },
+  {
+    "rule_key": "customs_vat_percent",
+    "value_num": 15,
+    "value_text": null,
+    "unit": "percent",
+    "description_en": "VAT charged on imported goods plus shipping.",
+    "description_ar": "ضريبة القيمة المضافة على قيمة البضائع المستوردة والشحن."
+  },
+  {
+    "rule_key": "customs_clearance_fee_sar",
+    "value_num": 15,
+    "value_text": null,
+    "unit": "SAR",
+    "description_en": "Barq customs clearance fee per shipment.",
+    "description_ar": "رسوم التخليص الجمركي من برق لكل شحنة."
+  },
+  {
+    "rule_key": "complaint_sla_working_days",
+    "value_num": 5,
+    "value_text": null,
+    "unit": "working days",
+    "description_en": "A formal complaint must be resolved within this many working days (Sun–Thu).",
+    "description_ar": "يجب حل الشكوى الرسمية خلال هذا العدد من أيام العمل (الأحد – الخميس)."
+  },
+  {
+    "rule_key": "investigation_callback_hours",
+    "value_num": 48,
+    "value_text": null,
+    "unit": "hours",
+    "description_en": "A non-delivery investigator calls the customer within this many hours.",
+    "description_ar": "يتصل محقق عدم الاستلام بالعميل خلال هذا العدد من الساعات."
+  },
+  {
+    "rule_key": "store_legal_delivery_days",
+    "value_num": 15,
+    "value_text": null,
+    "unit": "days",
+    "description_en": "Stores must deliver within this many days of the order; after that the customer may cancel for a full refund including shipping.",
+    "description_ar": "يجب على المتجر التوصيل خلال هذا العدد من الأيام من تاريخ الطلب، وبعدها يحق للعميل الإلغاء واسترداد المبلغ كاملًا شاملًا الشحن."
+  },
+  {
+    "rule_key": "redirect_same_city_fee_sar",
+    "value_num": 0,
+    "value_text": null,
+    "unit": "SAR",
+    "description_en": "Fee to change the delivery address within the same city.",
+    "description_ar": "رسوم تغيير عنوان التوصيل داخل المدينة نفسها."
+  },
+  {
+    "rule_key": "redirect_other_city_fee_sar",
+    "value_num": 25,
+    "value_text": null,
+    "unit": "SAR",
+    "description_en": "Fee to redirect a parcel to another city.",
+    "description_ar": "رسوم تحويل الشحنة إلى مدينة أخرى."
+  },
+  {
+    "rule_key": "max_attempts_before_branch",
+    "value_num": 2,
+    "value_text": null,
+    "unit": "attempts",
+    "description_en": "After this many failed delivery attempts the parcel goes to the nearest branch.",
+    "description_ar": "بعد هذا العدد من محاولات التوصيل غير الناجحة تُحوَّل الشحنة إلى أقرب فرع."
+  },
+  {
+    "rule_key": "return_to_sender_after_days",
+    "value_num": 14,
+    "value_text": null,
+    "unit": "days",
+    "description_en": "An undeliverable parcel goes back to the sender after this many days.",
+    "description_ar": "تُعاد الشحنة غير المسلَّمة إلى المرسل بعد هذا العدد من الأيام."
+  },
+  {
+    "rule_key": "tga_phone",
+    "value_num": null,
+    "value_text": "19929",
+    "unit": "phone",
+    "description_en": "Transport General Authority — escalation line for unresolved delivery complaints.",
+    "description_ar": "الهيئة العامة للنقل — للتصعيد في شكاوى التوصيل غير المحلولة."
+  },
+  {
+    "rule_key": "moc_phone",
+    "value_num": null,
+    "value_text": "1900",
+    "unit": "phone",
+    "description_en": "Ministry of Commerce — report stores that do not deliver.",
+    "description_ar": "وزارة التجارة — للإبلاغ عن المتاجر التي لا تلتزم بالتوصيل."
+  },
+  {
+    "rule_key": "barq_care_phone",
+    "value_num": null,
+    "value_text": "920012345",
+    "unit": "phone",
+    "description_en": "Barq Express customer care (demo number).",
+    "description_ar": "خدمة عملاء برق إكسبرس (رقم تجريبي)."
+  },
+  {
+    "rule_key": "working_days",
+    "value_num": null,
+    "value_text": "Sun-Thu",
+    "unit": "days",
+    "description_en": "Office working days (used for complaint and claim deadlines).",
+    "description_ar": "أيام العمل المكتبي (تُستخدم لاحتساب مواعيد الشكاوى والمطالبات)."
+  },
+  {
+    "rule_key": "delivery_days",
+    "value_num": null,
+    "value_text": "Sat-Thu",
+    "unit": "days",
+    "description_en": "Days Barq delivers (no deliveries on Friday).",
+    "description_ar": "أيام التوصيل لدى برق (لا توصيل يوم الجمعة)."
+  }
+]

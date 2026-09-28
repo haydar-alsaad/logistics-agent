@@ -1,0 +1,30 @@
+[
+  {
+    "window_code": "W1",
+    "start_time": "10:00",
+    "end_time": "13:00",
+    "label_en": "10am–1pm",
+    "label_ar": "10 صباحًا – 1 ظهرًا"
+  },
+  {
+    "window_code": "W2",
+    "start_time": "13:00",
+    "end_time": "16:00",
+    "label_en": "1–4pm",
+    "label_ar": "1 ظهرًا – 4 عصرًا"
+  },
+  {
+    "window_code": "W3",
+    "start_time": "16:00",
+    "end_time": "19:00",
+    "label_en": "4–7pm",
+    "label_ar": "4 عصرًا – 7 مساءً"
+  },
+  {
+    "window_code": "W4",
+    "start_time": "19:00",
+    "end_time": "21:00",
+    "label_en": "7–9pm",
+    "label_ar": "7 – 9 مساءً"
+  }
+]

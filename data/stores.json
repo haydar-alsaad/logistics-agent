@@ -1,0 +1,90 @@
+[
+  {
+    "store_id": "STR-001",
+    "name_en": "Nuqta Electronics",
+    "name_ar": "نقطة للإلكترونيات",
+    "category_en": "Electronics",
+    "category_ar": "إلكترونيات",
+    "return_window_days": 14,
+    "contact_phone": "+966114601001",
+    "contact_email": "care@nuqta-electronics.example",
+    "website": "https://nuqta-electronics.example"
+  },
+  {
+    "store_id": "STR-002",
+    "name_en": "Wardah Fashion",
+    "name_ar": "وردة للأزياء",
+    "category_en": "Fashion & Footwear",
+    "category_ar": "أزياء وأحذية",
+    "return_window_days": 14,
+    "contact_phone": "+966126601002",
+    "contact_email": "hello@wardah-fashion.example",
+    "website": "https://wardah-fashion.example"
+  },
+  {
+    "store_id": "STR-003",
+    "name_en": "Bayt Al Oud Perfumes",
+    "name_ar": "بيت العود للعطور",
+    "category_en": "Perfumes & Oud",
+    "category_ar": "عطور وعود",
+    "return_window_days": 7,
+    "contact_phone": "+966114601003",
+    "contact_email": "orders@baytaloud.example",
+    "website": "https://baytaloud.example"
+  },
+  {
+    "store_id": "STR-004",
+    "name_en": "TechZone KSA",
+    "name_ar": "تك زون السعودية",
+    "category_en": "Computers & Gaming",
+    "category_ar": "حواسيب وألعاب",
+    "return_window_days": 14,
+    "contact_phone": "+966114601004",
+    "contact_email": "support@techzone-ksa.example",
+    "website": "https://techzone-ksa.example"
+  },
+  {
+    "store_id": "STR-005",
+    "name_en": "Sahara Home",
+    "name_ar": "صحارى هوم",
+    "category_en": "Home & Furniture",
+    "category_ar": "منزل وأثاث",
+    "return_window_days": 14,
+    "contact_phone": "+966114601005",
+    "contact_email": "care@saharahome.example",
+    "website": "https://saharahome.example"
+  },
+  {
+    "store_id": "STR-006",
+    "name_en": "Lamsa Beauty",
+    "name_ar": "لمسة للتجميل",
+    "category_en": "Beauty & Care",
+    "category_ar": "تجميل وعناية",
+    "return_window_days": 7,
+    "contact_phone": "+966126601006",
+    "contact_email": "care@lamsa-beauty.example",
+    "website": "https://lamsa-beauty.example"
+  },
+  {
+    "store_id": "STR-007",
+    "name_en": "London Parcel Hub",
+    "name_ar": "لندن بارسل هب",
+    "category_en": "International shopping (UK)",
+    "category_ar": "تسوّق دولي (المملكة المتحدة)",
+    "return_window_days": 14,
+    "contact_phone": "+442079460123",
+    "contact_email": "support@londonparcelhub.example",
+    "website": "https://londonparcelhub.example"
+  },
+  {
+    "store_id": "STR-008",
+    "name_en": "Oud Elite",
+    "name_ar": "عود إيليت",
+    "category_en": "Perfumes & Oud",
+    "category_ar": "عطور وعود",
+    "return_window_days": 7,
+    "contact_phone": "+966114601008",
+    "contact_email": "info@oud-elite.example",
+    "website": "https://oud-elite.example"
+  }
+]

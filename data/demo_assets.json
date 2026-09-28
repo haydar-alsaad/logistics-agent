@@ -1,0 +1,82 @@
+[
+  {
+    "asset_id": "AST-001",
+    "persona_id": "BRQ-C-1003",
+    "use_case": "L-16",
+    "title_en": "POD photo — unknown door",
+    "title_ar": "صورة إثبات التسليم — باب غير معروف",
+    "storage_path": "demo-assets/pod/door-unknown.jpg",
+    "content_type": "image/jpeg",
+    "description_en": "Proof-of-delivery photo on BRQ30000001 (signed 'Mohammed', 180 m away). Served by the API as the POD photo; the customer says it is not their door."
+  },
+  {
+    "asset_id": "AST-002",
+    "persona_id": "BRQ-C-1003",
+    "use_case": "L-25",
+    "title_en": "POD photo — Khalid's door",
+    "title_ar": "صورة إثبات التسليم — باب خالد",
+    "storage_path": "demo-assets/pod/door-khalid.jpg",
+    "content_type": "image/jpeg",
+    "description_en": "Proof-of-delivery photo on BRQ30000008, embedded in the POD PDF."
+  },
+  {
+    "asset_id": "AST-003",
+    "persona_id": "BRQ-C-1002",
+    "use_case": "L-13",
+    "title_en": "Purchase invoice — London Parcel Hub",
+    "title_ar": "فاتورة الشراء — لندن بارسل هب",
+    "storage_path": "demo-assets/receipts/P2-purchase-invoice.pdf",
+    "content_type": "application/pdf",
+    "description_en": "Send from the phone when the agent asks for the purchase invoice for BRQ20000002 (goods SAR 820)."
+  },
+  {
+    "asset_id": "AST-004",
+    "persona_id": "BRQ-C-1003",
+    "use_case": "L-15",
+    "title_en": "Broken laptop — photo 1",
+    "title_ar": "لابتوب مكسور — صورة 1",
+    "storage_path": "demo-assets/photos/P3-broken-laptop-1.jpg",
+    "content_type": "image/jpeg",
+    "description_en": "Damage photo for the BRQ30000002 claim (send all three)."
+  },
+  {
+    "asset_id": "AST-005",
+    "persona_id": "BRQ-C-1003",
+    "use_case": "L-15",
+    "title_en": "Broken laptop — photo 2",
+    "title_ar": "لابتوب مكسور — صورة 2",
+    "storage_path": "demo-assets/photos/P3-broken-laptop-2.jpg",
+    "content_type": "image/jpeg",
+    "description_en": "Damage photo for the BRQ30000002 claim (send all three)."
+  },
+  {
+    "asset_id": "AST-006",
+    "persona_id": "BRQ-C-1003",
+    "use_case": "L-15",
+    "title_en": "Broken laptop — damaged box",
+    "title_ar": "لابتوب مكسور — الكرتون التالف",
+    "storage_path": "demo-assets/photos/P3-broken-laptop-box.jpg",
+    "content_type": "image/jpeg",
+    "description_en": "Outer-box damage photo for the BRQ30000002 claim."
+  },
+  {
+    "asset_id": "AST-007",
+    "persona_id": "BRQ-C-1003",
+    "use_case": "L-22",
+    "title_en": "Wrong-size shoes",
+    "title_ar": "حذاء بمقاس خاطئ",
+    "storage_path": "demo-assets/photos/P3-wrong-size-shoes.jpg",
+    "content_type": "image/jpeg",
+    "description_en": "Optional photo for the BRQ30000004 return (size 40 received, 42 ordered)."
+  },
+  {
+    "asset_id": "AST-008",
+    "persona_id": "BRQ-C-1003",
+    "use_case": "L-21",
+    "title_en": "Broken glass table",
+    "title_ar": "طاولة زجاج مكسورة",
+    "storage_path": "demo-assets/photos/P3-broken-glass-table.jpg",
+    "content_type": "image/jpeg",
+    "description_en": "Optional photo for the late-claim story on BRQ30000003 (no claim is opened; the agent sends the evidence pack)."
+  }
+]

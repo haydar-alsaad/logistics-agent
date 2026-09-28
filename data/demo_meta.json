@@ -1,0 +1,18 @@
+[
+  {
+    "key": "anchor_date",
+    "value": "2026-10-01"
+  },
+  {
+    "key": "timezone",
+    "value": "Asia/Riyadh"
+  },
+  {
+    "key": "vertical",
+    "value": "barq"
+  },
+  {
+    "key": "seed_version",
+    "value": "1.0"
+  }
+]

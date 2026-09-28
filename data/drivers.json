@@ -1,0 +1,42 @@
+[
+  {
+    "driver_id": "DRV-001",
+    "name_en": "Hassan Al-Zahrani",
+    "name_ar": "حسن الزهراني",
+    "phone": "+966556201001",
+    "vehicle_plate": "5821 RSA",
+    "centre_id": "CTR-001"
+  },
+  {
+    "driver_id": "DRV-002",
+    "name_en": "Abdulrahman Al-Subaie",
+    "name_ar": "عبدالرحمن السبيعي",
+    "phone": "+966556201002",
+    "vehicle_plate": "3390 KBD",
+    "centre_id": "CTR-001"
+  },
+  {
+    "driver_id": "DRV-003",
+    "name_en": "Yousef Al-Malki",
+    "name_ar": "يوسف المالكي",
+    "phone": "+966556201003",
+    "vehicle_plate": "7714 JHA",
+    "centre_id": "CTR-002"
+  },
+  {
+    "driver_id": "DRV-004",
+    "name_en": "Ali Al-Khaldi",
+    "name_ar": "علي الخالدي",
+    "phone": "+966556201004",
+    "vehicle_plate": "2468 DNR",
+    "centre_id": "CTR-003"
+  },
+  {
+    "driver_id": "DRV-005",
+    "name_en": "Tariq Mahmood",
+    "name_ar": "طارق محمود",
+    "phone": "+966556201005",
+    "vehicle_plate": "9105 RTA",
+    "centre_id": "CTR-001"
+  }
+]
